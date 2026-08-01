@@ -17,7 +17,7 @@ Hey there! 👋
 </td>
 <td align="center">
 
-<img height="125" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marinac-dev&hide_border=true&theme=radical&langs_count=5&layout=compact&count_weight=1&size_weight=0.5" alt="Marinac's top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marinac-dev&hide_border=true&theme=radical&langs_count=5&layout=compact&count_weight=1&size_weight=0.5" alt="Marinac's top languages" />
 
 <br />
 
